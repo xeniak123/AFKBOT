@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Suchy",
+    "username": "Blanka",
     "password": "",
     "type": "offline"
   },
@@ -31,12 +31,9 @@
       "repeat": true,
       "repeat-delay": 60,
       "messages": [
-        "Lbuie mleczko blaneczki ohh",
-        "Kocham Blanke UWU",
-        "lubie lizać stopy Blanki",
-        "jestem prawdziwy suchy jestem gejem",
-        "zrób mi loda uwu",
-        "kto chce w dupe tpa"
+        "DAJ MI ATENCJE",
+        "robie suchemu lodzika",
+        "kocham suchego ohh",
       ]
     },
     "chat-log": true,
